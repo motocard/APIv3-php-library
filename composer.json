@@ -1,5 +1,5 @@
 {
-    "name": "motocard/APIv3-php-library",
+    "name": "motocard/brevo-apiv3",
     "description": "Official SendinBlue provided RESTFul API V3 php library",
     "keywords": [
         "sendinblue",
@@ -8,7 +8,7 @@
         "sdk",
         "api"
     ],
-    "homepage": "https://github.com/motocard/APIv3-php-library",
+    "homepage": "https://github.com/motocard/brevo-apiv3",
     "license": "MIT",
     "authors": [
         {
